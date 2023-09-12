@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "user_name": "tran van c",
+      "gender": 0,
+      "dateOfBirth": "11/12/2023",
+      "address": "ha noi",
+      "email": "trc@gmail.com",
+      "password": "12323444",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "product_name": "bưởi",
+      "price": 120000,
+      "from": "HÀ NỘI",
+      "id": 2
+    },
+    {
+      "product_name": "táo",
+      "price": 130000,
+      "from": "HÀ NỘI",
+      "id": 3
+    },
+    {
+      "product_name": "dưa hấu",
+      "price": 140000,
+      "from": "HÀ NỘI",
+      "id": 4
+    },
+    {
+      "product_name": "cam",
+      "price": 150000,
+      "from": "cần thơ",
+      "id": 6
+    }
+  ]
+}
