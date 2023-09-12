@@ -1,22 +1,26 @@
 {
   "users": [
     {
-      "user_name": "tran van c",
-      "gender": 0,
-      "dateOfBirth": "11/12/2023",
+      "email": "bbb@gmail.com",
+      "password": "$2a$10$lxHHhRTxAsNbBB.ajeY4OeqxaNNd8rj0s0hFQ4LKGrUJoj6LeeqaC",
+      "user_name": "tran van ddd",
       "address": "ha noi",
-      "email": "trc@gmail.com",
-      "password": "12323444",
-      "id": 5
+      "dateOfBirth": "2023-09-12",
+      "gender": 0,
+      "id": 9,
+      "role": 1
+    },
+    {
+      "email": "bidengotovietnam@gmail.com",
+      "password": "$2a$10$u7qL46iZwSooak.7K5.3/OIJ5x8hyL1iyDdQDI3.2Jn5.Dbk3Q8Zy",
+      "user_name": "bidengotovietnam",
+      "address": "ha noi",
+      "dateOfBirth": "2023-09-12",
+      "gender": 1,
+      "id": 11
     }
   ],
   "products": [
-    {
-      "product_name": "bưởi",
-      "price": 120000,
-      "from": "HÀ NỘI",
-      "id": 2
-    },
     {
       "product_name": "táo",
       "price": 130000,
